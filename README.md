@@ -65,14 +65,6 @@ Actively seeking a **student / full-time developer role** where I can contribute
 
 ---
 
-### **eMessage — Real-Time Chat System**
-💬 WhatsApp-style messaging app  
-- Python multithreaded TCP server  
-- Tkinter GUI client with images & emojis  
-- User-selection screen, clean client-server flow  
-
----
-
 ### 🎮 Additional Projects
 - **Arkanoid Game (Java, OOP + Design Patterns)**  
 - Many more tools, scripts, apps, and experiments here on GitHub  
@@ -98,5 +90,5 @@ Actively seeking a **student / full-time developer role** where I can contribute
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to star some repos — it helps!
+  ⭐ If you like my work, feel free to star some repos, it helps!
 </p>
