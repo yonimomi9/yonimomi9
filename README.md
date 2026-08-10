@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hey, I’m <span style="color:#4BA3F2">Jonathan Tchebiner</span></h1>
 <p align="center">
-  Full-stack & systems developer · Computer Science B.Sc. · Shipping real products end-to-end
+  Software Developer · Computer Science B.Sc. · Shipping real products end-to-end
 </p>
 
 ---
