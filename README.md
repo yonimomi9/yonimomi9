@@ -15,20 +15,6 @@ grow inside a sharp engineering team.
 
 ---
 
-## 🚀 MOJO — Final-Year CS Project (Grade: 93)
-
-Smart task-planning app built with a team of 3, combining backend architecture with 
-constraint-based scheduling and ML-driven recommendations.
-
-- 🏗️ Designed a scalable backend with modular route, controller, and service layers
-- 🧩 Implemented scheduling logic using Constraint Satisfaction Problem (CSP) techniques 
-  and priority scoring to generate optimized task plans
-- 🤖 Built RESTful APIs integrated with an ML-based recommendation engine for personalized 
-  task suggestions based on user behavior
-- 📱 Collaborated on React Native frontend integration, connecting mobile UI to backend services
-
-**Tech:** Node.js · React Native · CSP Algorithms · ML · REST APIs
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -62,6 +48,20 @@ constraint-based scheduling and ML-driven recommendations.
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 MOJO — Final-Year CS Project (Grade: 93)
+
+Smart task-planning app built with a team of 3, combining backend architecture with 
+constraint-based scheduling and ML-driven recommendations.
+
+- 🏗️ Designed a scalable backend with modular route, controller, and service layers
+- 🧩 Implemented scheduling logic using Constraint Satisfaction Problem (CSP) techniques 
+  and priority scoring to generate optimized task plans
+- 🤖 Built RESTful APIs integrated with an ML-based recommendation engine for personalized 
+  task suggestions based on user behavior
+- 📱 Collaborated on React Native frontend integration, connecting mobile UI to backend services
+
+**Tech:** Node.js · React Native · CSP Algorithms · ML · REST APIs
 
 ### **EDY — Netflix-Style Streaming Platform**
 📌 Full-stack platform for the Advanced Systems Programming course  
